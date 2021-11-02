@@ -1,4 +1,6 @@
 <div align="center">
+[![Video 🗿](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)]
+     
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
 <p>Hi, I'm Ariq, I'm a Gamer & Programmer :). </p>
@@ -36,6 +38,4 @@
  <img src="https://komarev.com/ghpvc/?username=NamikazeZero&color=brightgreen&style=flat-square" alt="profile_views"/>
 </p>
 
-[![](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)]
-     
 #### See Ya 😆! 
