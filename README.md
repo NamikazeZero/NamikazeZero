@@ -8,6 +8,10 @@
 - 👾 I Make Beneficial Tools 
 - ⚡ Fun Fact - I Eat Food 🍜 
 - 👻 I Have [Youtube](https://youtube.com/channel/UCIdu7Hs_KaCw-FE3gefz-0w) Channel
-- 😸 I Hope You Enjoy For All My Work 
+- 😸 I Hope You Enjoy Of My Work 
 
-> More About Me? 
+> By The Way, Dont Forget To Subscribe :) 
+> And       , Follow My Github Account :) 
+
+> [Youtube Channel](https://youtube.com/channel/UCIdu7Hs_KaCw-FE3gefz-0w)
+> [Github Account](https://github.com/NamikazeZero)
