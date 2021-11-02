@@ -5,7 +5,7 @@
 
 #### I'm a Student Of Programmer
 * > ✍ Im Currently Learning About Python
-* > 👾 I Make Beneficial Tools ( I Think 🗿) 
+* > 👾 I Make Beneficial Tools ( I Think ) 
 * > ⚡ Fun Fact - I Eat Food 🍜 ( 🗿 )    
 * > 👻 I Have [Youtube](https://youtube.com/channel/UCIdu7Hs_KaCw-FE3gefz-0w) Channel
 * > 😸 I Hope You Enjoy Of My Work 
