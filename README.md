@@ -16,7 +16,7 @@
 > [Youtube Channel](https://youtube.com/channel/UCIdu7Hs_KaCw-FE3gefz-0w) |
 > [Github Account](https://github.com/NamikazeZero)     
 
-#### Stats:  
+#### Status  
 
 <!-- thropy -->
 <a href="https://NamikazeZero.github.io">
