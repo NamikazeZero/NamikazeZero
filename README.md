@@ -36,6 +36,6 @@
  <img src="https://komarev.com/ghpvc/?username=NamikazeZero&color=brightgreen&style=flat-square" alt="profile_views"/>
 </p>
 
-[!(https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)]
+[![](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)]
      
 #### See Ya 😆! 
