@@ -3,7 +3,7 @@
 <p>Welcome to My Profile</p>
 <p>Hi, I'm Ariq, I'm a Gamer & Programmer. Check <a href="#">ℹ️</a> For More Information.</p>
 
-[![](https://img.shields.io/badge/-@rief.rosyidi-black?logo=medium&style=flat-square)](https://medium.com/@rief.rosyidi)
-[![](https://img.shields.io/badge/-rief014-1fa2f2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/Rief014)
-[![](https://img.shields.io/badge/-rief_rosyidi-1ba94c?logo=hackerrank&style=flat-square&logoColor=white)](https://www.hackerrank.com/rief_rosyidi)  
+[![](Github)](https://github.com/NamikazeZero)
+[![](Youtube)](https://youtube.com/channel/UCIdu7Hs_KaCw-FE3gefz-0w)
+[![](Other)]()  
 </div>
