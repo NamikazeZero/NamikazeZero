@@ -10,8 +10,8 @@
 - 👻 I Have [Youtube](https://youtube.com/channel/UCIdu7Hs_KaCw-FE3gefz-0w) Channel
 - 😸 I Hope You Enjoy Of My Work 
 
-> By The Way, Dont Forget To Subscribe :) 
+> By The Way, Dont Forget To Subscribe :)      
 > And       , Follow My Github Account :) 
 
-> [Youtube Channel](https://youtube.com/channel/UCIdu7Hs_KaCw-FE3gefz-0w)
-> [Github Account](https://github.com/NamikazeZero)
+> [Youtube Channel](https://youtube.com/channel/UCIdu7Hs_KaCw-FE3gefz-0w) |
+> [Github Account](https://github.com/NamikazeZero)     
