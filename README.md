@@ -1,8 +1,7 @@
 <div align="center">
-<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
      
-<p>Welcome to My Profile</p>
+<p>Welcome to My Profile <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2></p>
 <p>Hi, I'm Ariq, I'm a Gamer & Programmer :). </p>
 
 #### I'm a Student Of Programmer
