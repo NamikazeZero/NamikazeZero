@@ -5,5 +5,5 @@
 
 [![](Github)](https://github.com/NamikazeZero)
 [![](Youtube)](https://youtube.com/channel/UCIdu7Hs_KaCw-FE3gefz-0w)
-[![](Other)]()  
+[![](Other)](https://github.com)  
 </div>
