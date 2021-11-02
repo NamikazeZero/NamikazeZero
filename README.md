@@ -7,5 +7,5 @@
 - ✍ Im Currently Learning 
 - 👾 I Make Beneficial Tools 
 - ⚡ Fun Fact - I Eat Food 🍜 
-- 👻 By The Way, I Have Youtube Channel [Youtube](https://youtube.com/channel/UCIdu7Hs_KaCw-FE3gefz-0w)
+- 👻 I Have Youtube Channel [Subscribe 🗡](https://youtube.com/channel/UCIdu7Hs_KaCw-FE3gefz-0w)
 - 😸 I Hope You Enjoy For All My Work 
