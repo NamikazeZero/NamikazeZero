@@ -4,7 +4,7 @@
 <p>Hi, I'm Ariq, I'm a Gamer & Programmer :). </p>
 
 #### I'm a Student Of Programmer
-* > ✍ Im Currently Learning About Python Code
+* > ✍ Im Currently Learning About Python
 * > 👾 I Make Beneficial Tools 
 * > ⚡ Fun Fact - I Eat Food 🍜 
 * > 👻 I Have [Youtube](https://youtube.com/channel/UCIdu7Hs_KaCw-FE3gefz-0w) Channel
