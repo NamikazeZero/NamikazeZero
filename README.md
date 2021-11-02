@@ -1,5 +1,5 @@
 <div align="center">
-[![Video 🗿](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)]
+[![Video](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)]
      
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
