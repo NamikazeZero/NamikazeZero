@@ -1,6 +1,5 @@
 <div align="center">
-[![](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)]
-     
+[![asciicast](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)]
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
 <p>Hi, I'm Ariq, I'm a Gamer & Programmer :). </p>
