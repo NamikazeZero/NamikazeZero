@@ -10,5 +10,5 @@
 - 👻 By The Way, I Have Youtube Channel. Can You Help Me To Reach 1000 Subscriber? 🗿
 - 😸 I Hope You Enjoy For All My Work 🗿
 
-(My Youtube Channel)[https://youtube.com/channel/UCIdu7Hs_KaCw-FE3gefz-0w]
+[My Youtube Channel](https://youtube.com/channel/UCIdu7Hs_KaCw-FE3gefz-0w)
 
