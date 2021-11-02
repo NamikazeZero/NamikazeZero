@@ -35,3 +35,7 @@
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=NamikazeZero&color=brightgreen&style=flat-square" alt="profile_views"/>
 </p>
+
+[![😄](https://i.imgur.com/vKb2F1B.png)]
+     
+#### See Ya 😆! 
