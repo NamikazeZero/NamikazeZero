@@ -1,7 +1,7 @@
 <div align="center">
 <h3>Hi there 👋,</h3>
 <p>Welcome to My Profile</p>
-<p>Hi, I'm Rifqi, I'm a Web Developer. Check <a href="#">ℹ️</a> For More Information.</p>
+<p>Hi, I'm Ariq, I'm a Gamer & Programmer. Check <a href="#">ℹ️</a> For More Information.</p>
 
 [![](https://img.shields.io/badge/-@rief.rosyidi-black?logo=medium&style=flat-square)](https://medium.com/@rief.rosyidi)
 [![](https://img.shields.io/badge/-rief014-1fa2f2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/Rief014)
